@@ -67,7 +67,7 @@ npm run dev
 
 Open in browser:
 
-http://localhost:5173
+http://localhost:5173,
 https://simple-todo-7b7c4.web.app/
 
 🎯 Learning Outcomes
