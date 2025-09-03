@@ -1,5 +1,7 @@
 📝 Simple Todo App
 
+https://simple-todo-7b7c4.web.app/
+
 A minimal, modern Todo application built with React and TailwindCSS, created inside Cursor IDE.
 
 This project demonstrates clean UI design, React component structure, and styling with TailwindCSS.
@@ -67,8 +69,7 @@ npm run dev
 
 Open in browser:
 
-http://localhost:5173,
-https://simple-todo-7b7c4.web.app/
+http://localhost:5173
 
 🎯 Learning Outcomes
 
